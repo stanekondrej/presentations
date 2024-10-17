@@ -1,0 +1,4 @@
+\beamer@sectionintoc {1}{The first stage: Preparation}{4}{0}{1}
+\beamer@sectionintoc {2}{The second stage: Setting up your channel}{8}{0}{2}
+\beamer@sectionintoc {3}{The third stage: producing \textit {"content"}}{10}{0}{3}
+\beamer@sectionintoc {4}{Afterword}{14}{0}{4}
